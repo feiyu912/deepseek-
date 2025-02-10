@@ -22,3 +22,5 @@ DeepSeek 是一款开源的大语言模型，凭借其先进的算法架构，�
 
 访问 [Ollama 官网](https://ollama.com/)，根据提示下载并安装 Ollama 客户端。安装完成后，在终端内运行 `ollama -v` 命令将输出版本号。
 
+
+
